@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 81668c96-b9f6-2526-f2fe-53706ac246b1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e324b1f9-4206-2bbc-a0f8-684298609eca
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 181a76e7-397f-2d34-cb07-2fcae5fe0d16
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f6e1c4c9-34e8-9906-e3ea-82ebf240408f
+  name: Assignments and Student Work
+  pageRef: /pages/assignments-and-student-work
+  weight: 40
