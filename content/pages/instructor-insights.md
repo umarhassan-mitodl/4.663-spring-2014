@@ -41,7 +41,7 @@ Permission of the instructor
 
 ### Requirements Satisfied
 
-May be applied toward a PhD in {{% resource_link "cb3e37c7-052f-4d26-b0c5-0c854c237a9e" "History and Theory of Architecture or Art" %}}, but is not required.
+May be applied toward a PhD in [History and Theory of Architecture or Art](http://architecture.mit.edu/history-theory-and-criticism/degree/phd), but is not required.
 
 ### Offered
 
@@ -74,7 +74,7 @@ Mostly doctoral candidates, with a few students seeking professional architectur
 
 ### Breakdown by Major
 
-Doctoral candidates are primarily from the {{% resource_link "0b8dadd8-4955-47e4-ab5e-05efee2c4c94" "History, Theory and Criticism" %}} Program in the {{% resource_link "ea4d7015-e06f-4bbc-8fa1-4e74810cf37b" "Department of Architecture" %}}.
+Doctoral candidates are primarily from the [History, Theory and Criticism](http://architecture.mit.edu/discipline/history-theory-and-criticism) Program in the [Department of Architecture](http://architecture.mit.edu/).
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
